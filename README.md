@@ -1,6 +1,5 @@
 # Portfólio - Christian Mathias Michelson
 
-![Preview do Portfólio](assets/fotoperfil.jpg)
 
 ## 📌 Sobre
 
