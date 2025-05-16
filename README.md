@@ -142,4 +142,12 @@ O site foi otimizado para:
    - Edite os arquivos HTML, CSS e JS conforme necessário
    - As alterações podem ser visualizadas atualizando o navegador
 
+## 📝 Manutenção
+
+Para atualizar o conteúdo:
+1. Edite o arquivo `index.html` para modificar textos e estrutura
+2. Ajuste estilos no arquivo `styles.css`
+3. Modifique animações e interações no `script.js`
+4. Adicione ou atualize imagens na pasta `assets/`
+
 
